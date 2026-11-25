@@ -1,5 +1,7 @@
 # Liberty Autogas Conversions: redesign mockup
 
+> **Pitch points below were written when the site was built and most haven't been rechecked.** The call script in `sales/sales-scripts.md` was corrected on 24 Nov 2026 and is safer than this list. Check each one on the live site, on a real phone, before saying it.
+
 Rebuild of http://libertyautogas.com.au (the autogas/LPG site only, not the Liberty Mechanics mechanical side).
 Plain HTML/CSS/JS, no build step. Open `index.html` in a browser, or serve the folder with any static server.
 
